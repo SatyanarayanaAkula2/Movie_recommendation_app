@@ -50,4 +50,6 @@ FUTURE IMPROVEMENTS
 - Improve filtering (ratings, language, year)
 - Deploy as a scalable web application
 
+Live Url: [https://movierecommendationapp-fild2wemdknfxhqfdvgz8t.streamlit.app/]
+
 ⭐If you Like this project,give it a star on Github!
