@@ -28,7 +28,7 @@ HOW IT WORKS
 INSTALLATION
 
 1. Clone the repository
-   git clone https://github.com/SatyanarayanaAkula/Movie_recommendation_app.git
+   git clone https://github.com/SatyanarayanaAkula2/Movie_recommendation_app.git
 
 2. Navigate to the project folder
    cd Movie_recommendation
